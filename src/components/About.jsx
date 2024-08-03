@@ -5,15 +5,14 @@ const About = () => {
   return (
     <header>
       <h2>More About Me</h2>
-      <p>I am an aspiring Fullstack Developer, with cloud experience, primarily 
-        with Amamzon Web services but some Google Cloud as well. I am currently
-        an Information Technology student at George Mason University with a projected
-        concentration in Database and Programing. I have been programming since 
-        I was in Highschool as I wanted to learn game development, moving from
-        a game community Byond, which used a C-like language called "dream maker",
-        to Java and Python. Within My later college years I began learning Web development
-        languages and frameworks as well as cloud principles. Currently I am expected to 
-        graduate with a bachelor's in Spring 2024.</p>
+      <p>I am a developer, with primarily Object Oriented Programming experience;
+        however, I also have experience in using various cloud providers and databases.
+        I graduated with a Bachelor of Science in Information Technology from George 
+        Mason University with a concentration in Database and Programing. I have been 
+        programming since I was in Highschool learning the fundamentals of Java and 
+        Python and In My later college years I began learning Web development frameworks 
+        as well as cloud principles. Currently I am looking for an employment opportunity
+        that will help me grow my skills and knowledge as a Developer.</p>
     </header>
   );
 };

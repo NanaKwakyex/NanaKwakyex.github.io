@@ -32,8 +32,8 @@ const Projects = () => {
         </div>
         <br></br>
         <div>
-        <h5>More Smaller Projects</h5>
-        <img src='../images/projPics/' alt='Smaller Projects Repository'></img>
+        <h5>See More Projects</h5>
+        <img src='../images/projPics/' alt='Public Github Repositories'></img>
         <br></br>
         <a href="https://github.com/NanaKwakyex/NanaKwakyex.github.io" role="button" class="secondary outline">Code</a>
         </div>
